@@ -1,0 +1,9 @@
+* cl-isl
+
+Integer Set Library (ISL) Common Lisp ffi bindings
+
+|---------+----------------------------------------------------|
+| source  | git:https://github.com/guillaume-michel/cl-isl.git |
+| commit  | a83d73e                                            |
+| systems | cl-isl                                             |
+|---------+----------------------------------------------------|
